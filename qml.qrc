@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MemoryFileEditing.qml</file>
+        <file>ErasingProgramming.qml</file>
+        <file>Help.qml</file>
+        <file>OptionBytes.qml</file>
+        <file>Accordion.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="MemoryFileEditing.qml">MemoryFileEditing.qml</file>
+        <file alias="ErasingProgramming.qml">ErasingProgramming.qml</file>
+        <file alias="Help.qml">Help.qml</file>
+        <file alias="OptionBytes.qml">OptionBytes.qml</file>
+        <file alias="Accordion.qml">Accordion.qml</file>
+    </qresource>
+</RCC>
